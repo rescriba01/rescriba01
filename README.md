@@ -1,5 +1,6 @@
+![profile_thumbnail](https://user-images.githubusercontent.com/3300399/88915331-158d4900-d232-11ea-8e5d-9b6646a57bc8.jpg)
+
 ### Hello World!👋
-![My Face](/path/to/img.jpg)
 
 <!--
 **rescriba01/rescriba01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
