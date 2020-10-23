@@ -25,7 +25,7 @@ I'm looking to collaborate on anything that needs work done. Currently I am look
 * help-wanted
 as well as all the other usual suspects.
 
-🌱 I’m currently learning software developement and focusing on React.js a a frontend framework and I have grown fond of Python and will continue to sharpen these skills whnever and whereever possible. I enjoy editing documentation and reviewing code. The best way to sum up my current mindset this quote:
+🌱 I’m currently learning software developement and focusing on customizing WordPress sites and developing my Python abilities. I have grown fond of Python and will continue to sharpen these skills whenever and whereever possible. I enjoy editing documentation and reviewing code. The best way to sum up my current mindset this quote:
 
 >   Be observing constantly. Stay open minded. Be eager to learn and improve.
 >
