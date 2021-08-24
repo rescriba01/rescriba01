@@ -31,7 +31,7 @@ as well as all the other usual suspects.
 
 - 💬  Ask me about Beer, Comics (they, like my children, are all unique and because of this I love them all), Coffee (and brewing methods), Gaming.
 
-- 🌱  I’m currently learning Vanilla JavaScript and React to level up my developement skills. My focus of late has been on customizing WordPress sites and I also have been continuously developing my Python abilities. I have grown fond of Python and will continue to sharpen these skills whenever and wherever possible. Ideally I'd like ot use React as the frontend and Python on the backend and [this]() page of mine is that focus. I enjoy editing documentation and reviewing code. The best way to sum up my current mindset this quote:
+- 🌱  I’m currently learning Vanilla JavaScript and React to level up my developement skills. My focus of late has been on customizing WordPress sites and I also have been continuously developing my Python abilities. I have grown fond of Python and will continue to sharpen these skills whenever and wherever possible. Ideally I'd like to use React as the frontend and Python on the backend and [this]() page of mine is that focus. I enjoy editing documentation and reviewing code. The best way to sum up my current mindset this quote:
 
 >   Be observing constantly. Stay open minded. Be eager to learn and improve.
 >
