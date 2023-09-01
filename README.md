@@ -1,41 +1,41 @@
 ![profile_thumbnail](https://user-images.githubusercontent.com/3300399/88915331-158d4900-d232-11ea-8e5d-9b6646a57bc8.jpg)
 
-### Hello World!👋
+### Hello World! 👋
 
 <!--
 **rescriba01/rescriba01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-I'm looking to collaborate on anything that needs work done. Currently I am looking through the following tags on projects:
-* first-contributors
-* community-projects
-* :gift: Beginner
-* contribution welcome
-* contribution-starter
-* help-wanted
-as well as all the other usual suspects.
 
-- 👯  I’m looking to collaborate on any Software development prokects where i can use JavaScript, React, and or Python to bolster those skillsets.
+I'm actively seeking collaboration opportunities in software development, particularly in projects where I can hone my skills in JavaScript, Python, PHP, and its Laravel framework.
 
-- 🤔  I’m looking for help with alll the aforementioned languages.
+#### Tags I'm Following:
+- first-contributors
+- community-projects
+- Beginner 🎁
+- contribution-welcome
+- contribution-starter
+- help-wanted
 
-- 💬  Ask me about Beer, Comics (they, like my children, are all unique and because of this I love them all), Coffee (and brewing methods), Gaming.
+#### Collaboration & Learning:
+- 👯 I'm open to collaborating on software development projects that involve JavaScript, Python, PHP, or Laravel.
+- 🤔 I'm looking to improve in all the aforementioned languages.
 
-- 🌱  I’m currently learning Vanilla JavaScript and React to level up my developement skills. My focus of late has been on customizing WordPress sites and I also have been continuously developing my Python abilities. I have grown fond of Python and will continue to sharpen these skills whenever and wherever possible. Ideally I'd like to use React as the frontend and Python on the backend and [this]() page of mine is that focus. I enjoy editing documentation and reviewing code. The best way to sum up my current mindset this quote:
+#### Interests & Hobbies:
+- 💬 Feel free to ask me about beer, comics, coffee brewing methods, and gaming.
+  
+#### Current Learning Path:
+- 🌱 I'm currently enhancing my skills in Vanilla JavaScript and PHP. My focus has lately been on customizing WordPress sites and growing my Python and Laravel abilities. Check out [this page](#) for a project that incorporates PHP and Laravel in the back-end.
+  
+#### My Mindset:
+> Be observing constantly. Stay open-minded. Be eager to learn and improve.
+>  
+> \- John Wooden
 
->   Be observing constantly. Stay open minded. Be eager to learn and improve.
->
->   \-John Wooden
-
-
-- 📫  How to reach me: 
+#### Contact:
+- 📫 How to reach me:<br>
+  <a href="https://www.linkedin.com/in/rafaelescribano/">
+    <img src="https://github.com/rescriba01/rescriba01/assets/3300399/0a9e658a-7a8a-46a7-94b8-110ca803add5" alt="LinkedIn Icon" width="30" height="30">
+    [LinkedIn](https://www.linkedin.com/in/rafaelescribano/)
+  </a><br>
+    <img src="https://github.com/rescriba01/rescriba01/assets/3300399/92f167b2-e686-4ccb-ab4b-c827ac6f2a62" alt="Email Icon" width="30" height="30">
+    Email:rescriba@proton.me
