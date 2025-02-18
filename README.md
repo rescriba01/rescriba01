@@ -40,3 +40,8 @@ I'm a **Full-Stack Engineer** specializing in **PHP, JavaScript, and WordPress**
   </a><br>  
   <img src="https://github.com/rescriba01/rescriba01/assets/3300399/92f167b2-e686-4ccb-ab4b-c827ac6f2a62" alt="Email Icon" width="30" height="30">  
   Email: rescriba@proton.me  
+  <br>  
+  <a href="https://rafaelescribano.com">
+    <img src="https://github.com/rescriba01/rescriba01/assets/3300399/34f4a625-3e02-4d9e-9c02-8a09ef6f762f" alt="Website Icon" width="30" height="30">
+    [Portfolio](https://rafaelescribano.com)
+  </a>  
