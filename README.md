@@ -30,18 +30,16 @@ I'm a **Full-Stack Engineer** specializing in **PHP, JavaScript, and WordPress**
 #### My Mindset:  
 > Be observing constantly. Stay open-minded. Be eager to learn and improve.  
 >  
-> \- John Wooden  
+> \- John Wooden
 
+
+[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rescriba01&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 #### Contact:  
-- 📫 How to reach me:<br>  
-  <a href="https://www.linkedin.com/in/rafaelescribano/">
-    <img src="https://github.com/rescriba01/rescriba01/assets/3300399/0a9e658a-7a8a-46a7-94b8-110ca803add5" alt="LinkedIn Icon" width="30" height="30">
-    [LinkedIn](https://www.linkedin.com/in/rafaelescribano/)
-  </a><br>  
-  <img src="https://github.com/rescriba01/rescriba01/assets/3300399/92f167b2-e686-4ccb-ab4b-c827ac6f2a62" alt="Email Icon" width="30" height="30">  
-  Email: rescriba@proton.me  
-  <br>  
-  <a href="https://rafaelescribano.com">
-    <img src="https://github.com/rescriba01/rescriba01/assets/3300399/34f4a625-3e02-4d9e-9c02-8a09ef6f762f" alt="Website Icon" width="30" height="30">
-    [Portfolio](https://rafaelescribano.com)
-  </a>  
+- 📫 How to reach me:<br>
+
+    <img src="https://github.com/rescriba01/rescriba01/assets/3300399/0a9e658a-7a8a-46a7-94b8-110ca803add5" alt="LinkedIn Icon" width="15" height="15">
+    Network: <a href="https://www.linkedin.com/in/rafaelescribano/" target="_blank">LinkedIn</a>
+  
+  📧  Email: <a href="mailto:rescriba@proton.me">rescriba@proton.me</a>
+
+  🌐  Portfolio: [rafaelescribano.com](https://rafaelescribano.com)  
