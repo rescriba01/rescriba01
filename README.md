@@ -1,6 +1,5 @@
-![profile_thumbnail](https://user-images.githubusercontent.com/3300399/88915331-158d4900-d232-11ea-8e5d-9b6646a57bc8.jpg)
-
-### Hello World! 👋  
+### Hello World! 👋
+---
 
 I'm a **Full-Stack Engineer** specializing in **PHP, JavaScript, and WordPress** development. I build scalable, high-performance web solutions, focusing on **custom themes, plugins, API integrations, and accessibility (a11y) best practices**.  
 
@@ -13,8 +12,9 @@ I'm a **Full-Stack Engineer** specializing in **PHP, JavaScript, and WordPress**
 - laravel  
 - vanilla-js  
 - typeScript  
-- rest-api  
-- headless-cms  
+- rest-api
+- React
+- Next.js
 
 #### Collaboration & Learning:  
 - 👯 I'm open to collaborating on **WordPress, PHP, JavaScript (Vanilla/TypeScript), and Laravel** projects.  
